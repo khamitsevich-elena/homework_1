@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 21" width="11" height="21">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #c6cacc } 
+	</style>
+	<g id="team">
+		<g id="team 3">
+			<g id="social icons">
+				<path id="Shape 6" class="shp0" d="M9 6.83L6.28 6.83L6.28 4.96C6.28 4.26 6.72 4.09 7.03 4.09C7.35 4.09 8.96 4.09 8.96 4.09L8.96 1.01L6.31 1C3.37 1 2.7 3.3 2.7 4.77L2.7 6.83L1 6.83L1 10.01L2.7 10.01C2.7 14.09 2.7 19 2.7 19L6.28 19C6.28 19 6.28 14.04 6.28 10.01L8.69 10.01L9 6.83Z" />
+			</g>
+		</g>
+	</g>
+</svg>
